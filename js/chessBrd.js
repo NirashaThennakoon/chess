@@ -2225,59 +2225,59 @@ $("#whiteRook").mouseenter(function () {
          })
          $("#whitePawn").mouseenter(function () {
 
-             if (($("#whitePawn").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F9E79F")}
+             if (($("#whitePawn").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F9E79F")}
+             if (($("#whitePawn").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F9E79F")}
+             if (($("#whitePawn").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F9E79F")}
-             if (($("#whitePawn").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F9E79F")}
+             if (($("#whitePawn").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F7D7F1")}
 
 
 
@@ -2286,59 +2286,59 @@ $("#whiteRook").mouseenter(function () {
 
          $("#whitePawn1").mouseenter(function () {
 
-             if (($("#whitePawn1").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn1").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn1").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F9E79F")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn1").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F9E79F")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn1").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F9E79F")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn1").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F9E79F")}
-             if (($("#whitePawn1").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F9E79F")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn1").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F7D7F1")}
 
 
 
@@ -2347,59 +2347,59 @@ $("#whiteRook").mouseenter(function () {
 
          $("#whitePawn2").mouseenter(function () {
 
-             if (($("#whitePawn2").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn2").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn2").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F9E79F")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn2").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F9E79F")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn2").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F9E79F")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn2").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F9E79F")}
-             if (($("#whitePawn2").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F9E79F")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn2").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F7D7F1")}
 
 
 
@@ -2408,59 +2408,59 @@ $("#whiteRook").mouseenter(function () {
 
          $("#whitePawn").mouseenter(function () {
 
-             if (($("#whitePawn3").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn3").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn3").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F9E79F")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn3").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F9E79F")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn3").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F9E79F")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn3").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F9E79F")}
-             if (($("#whitePawn3").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F9E79F")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn3").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F7D7F1")}
 
 
 
@@ -2469,59 +2469,59 @@ $("#whiteRook").mouseenter(function () {
 
          $("#whitePawn4").mouseenter(function () {
 
-             if (($("#whitePawn4").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn4").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn4").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F9E79F")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn4").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F9E79F")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn4").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F9E79F")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn4").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F9E79F")}
-             if (($("#whitePawn4").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F9E79F")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn4").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F7D7F1")}
 
 
 
@@ -2530,59 +2530,59 @@ $("#whiteRook").mouseenter(function () {
 
          $("#whitePawn5").mouseenter(function () {
 
-             if (($("#whitePawn5").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn5").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn5").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F9E79F")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn5").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F9E79F")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn5").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F9E79F")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn5").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F9E79F")}
-             if (($("#whitePawn5").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F9E79F")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn5").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F7D7F1")}
 
 
 
@@ -2590,59 +2590,59 @@ $("#whiteRook").mouseenter(function () {
 
          $("#whitePawn6").mouseenter(function () {
 
-             if (($("#whitePawn6").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn6").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn6").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F9E79F")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn6").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F9E79F")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn6").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F9E79F")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn6").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F9E79F")}
-             if (($("#whitePawn6").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F9E79F")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn6").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F7D7F1")}
 
 
 
@@ -2651,59 +2651,59 @@ $("#whiteRook").mouseenter(function () {
 
          $("#whitePawn7").mouseenter(function () {
 
-             if (($("#whitePawn7").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th8")) {$("#th16,#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th9")) {$("#th17,#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th10" )){$("#th18,#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th11")) {$("#th19,#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th12")){$("#th20,#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th13")){$("#th21,#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th14")){$("#th22,#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th15")){$("#th23,#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn7").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F9E79F")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th16")){$("#th24").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th17")){$("#th25").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th18")) {$("#th26").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th19")){$("#th27").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th20")){$("#th28").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th21")){$("#th29").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th22")){$("#th30").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th23")){$("#th31").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn7").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F9E79F")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th24")){$("#th32").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th25")){$("#th33").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th26")){$("#th34").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th27")){$("#th35").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th28")){$("#th36").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th29")){$("#th37").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th30")){$("#th38").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th31")){$("#th39").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn7").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F9E79F")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th32")){$("#th40").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th33")){$("#th41").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th34")){$("#th42").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th35")){$("#th43").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th36")){$("#th44").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th37")){$("#th45").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th38")){$("#th46").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th39")){$("#th47").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn7").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F9E79F")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th40")){$("#th48").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th41")){$("#th49").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th42")){$("#th50").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th43")){$("#th51").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th44")){$("#th52").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th45")){$("#th53").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th46")){$("#th54").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th47")){$("#th55").css("background-color", "#F7D7F1")}
 
-             if (($("#whitePawn7").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F9E79F")}
-             if (($("#whitePawn7").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F9E79F")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th48")){$("#th56").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th49")){$("#th57").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th50")){$("#th58").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th51")){$("#th59").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th52")){$("#th60").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th53")){$("#th61").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th54")){$("#th62").css("background-color", "#F7D7F1")}
+             if (($("#whitePawn7").parent().attr("id") ==  "th55")){$("#th63").css("background-color", "#F7D7F1")}
 
          });
 
@@ -2711,59 +2711,59 @@ $("#whiteRook").mouseenter(function () {
      })
      $("#blackPawn").mouseenter(function () {
 
-         if (($("#blackPawn").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F9E79F")}
+         if (($("#blackPawn").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F9E79F")}
+         if (($("#blackPawn").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F9E79F")}
+         if (($("#blackPawn").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F9E79F")}
-         if (($("#blackPawn").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F9E79F")}
+         if (($("#blackPawn").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F7D7F1")}
 
 
 
@@ -2772,59 +2772,59 @@ $("#whiteRook").mouseenter(function () {
 
      $("#blackPawn1").mouseenter(function () {
 
-         if (($("#blackPawn1").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn1").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn1").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F9E79F")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn1").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F9E79F")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn1").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F9E79F")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn1").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F9E79F")}
-         if (($("#blackPawn1").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F9E79F")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn1").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F7D7F1")}
 
 
 
@@ -2833,59 +2833,59 @@ $("#whiteRook").mouseenter(function () {
 
      $("#blackPawn2").mouseenter(function () {
 
-         if (($("#blackPawn2").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn2").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn2").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F9E79F")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn2").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F9E79F")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn2").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F9E79F")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn2").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F9E79F")}
-         if (($("#blackPawn2").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F9E79F")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn2").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F7D7F1")}
 
 
 
@@ -2894,59 +2894,59 @@ $("#whiteRook").mouseenter(function () {
 
      $("#blackPawn3").mouseenter(function () {
 
-         if (($("#blackPawn3").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn3").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn3").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F9E79F")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn3").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F9E79F")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn3").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F9E79F")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn3").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F9E79F")}
-         if (($("#blackPawn3").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F9E79F")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn3").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F7D7F1")}
 
 
 
@@ -2955,59 +2955,59 @@ $("#whiteRook").mouseenter(function () {
 
      $("#blackPawn4").mouseenter(function () {
 
-         if (($("#blackPawn4").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn4").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn4").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F9E79F")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn4").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F9E79F")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn4").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F9E79F")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn4").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F9E79F")}
-         if (($("#blackPawn4").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F9E79F")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn4").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F7D7F1")}
 
 
 
@@ -3016,59 +3016,59 @@ $("#whiteRook").mouseenter(function () {
 
      $("#blackPawn5").mouseenter(function () {
 
-         if (($("#blackPawn5").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn5").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn5").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F9E79F")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn5").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F9E79F")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn5").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F9E79F")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn5").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F9E79F")}
-         if (($("#blackPawn5").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F9E79F")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn5").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F7D7F1")}
 
 
 
@@ -3076,59 +3076,59 @@ $("#whiteRook").mouseenter(function () {
 
      $("#blackPawn6").mouseenter(function () {
 
-         if (($("#blackPawn6").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn6").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn6").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F9E79F")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn6").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F9E79F")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn6").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F9E79F")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn6").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F9E79F")}
-         if (($("#blackPawn6").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F9E79F")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn6").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F7D7F1")}
 
 
 
@@ -3137,133 +3137,136 @@ $("#whiteRook").mouseenter(function () {
 
      $("#blackPawn7").mouseenter(function () {
 
-         if (($("#blackPawn7").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th48")) {$("#th40,#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th49")) {$("#th41,#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th50" )){$("#th42,#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th51")) {$("#th43,#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th52")){$("#th44,#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th53")){$("#th45,#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th54")){$("#th46,#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th55")){$("#th47,#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn7").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F9E79F")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th40")){$("#th32").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th41")){$("#th33").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th42")) {$("#th34").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th43")){$("#th35").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th44")){$("#th36").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th45")){$("#th37").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th46")){$("#th38").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th47")){$("#th39").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn7").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F9E79F")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th32")){$("#th24").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th33")){$("#th25").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th34")){$("#th26").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th35")){$("#th27").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th36")){$("#th28").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th37")){$("#th29").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th38")){$("#th30").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th39")){$("#th31").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn7").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F9E79F")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th24")){$("#th16").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th25")){$("#th17").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th26")){$("#th18").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th27")){$("#th19").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th28")){$("#th20").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th29")){$("#th21").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th30")){$("#th22").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th31")){$("#th23").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn7").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F9E79F")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th16")){$("#th8").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th17")){$("#th9").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th18")){$("#th10").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th19")){$("#th11").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th20")){$("#th12").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th21")){$("#th13").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th22")){$("#th14").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th23")){$("#th15").css("background-color", "#F7D7F1")}
 
-         if (($("#blackPawn7").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F9E79F")}
-         if (($("#blackPawn7").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F9E79F")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th8")){$("#th").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th9")){$("#th1").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th10")){$("#th2").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th11")){$("#th3").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th12")){$("#th4").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th13")){$("#th5").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th14")){$("#th6").css("background-color", "#F7D7F1")}
+         if (($("#blackPawn7").parent().attr("id") ==  "th15")){$("#th7").css("background-color", "#F7D7F1")}
 
      });
 
-    $("#whiteRook,#blackNite,#blackBishop,#blackQueen,#blackKing,#whiteRook1,#blackRook,#blackRook1").mouseleave(function () {
+    $("#whiteRook,#whiteBishop,#whiteBishop1,#whiteNite,#whiteNite1,#whiteKing,#whiteQueen," +
+        "#whitePawn,#whitePwan1,#whitePawn2,#whitePawn3,#whitePawn4,#whitePawn5,#whitePawn6,#whitePawn7," +
+        "#blackNite,#blackNite1,#blackBishop1,#blackBishop,#blackQueen,#blackKing,#whiteRook1,#blackRook,#blackRook1," +
+        "#blackPawn,#blackPawn1,#blackPawn2,#blackPawn3,#blackPawn4,#blackPawn5,#blackPawn6,#blackPawn7").mouseleave(function () {
         $("#th").css("backgroundColor","white")
-        $("#th1").css("backgroundColor","grey")
+        $("#th1").css("backgroundColor","#a96910")
         $("#th2").css("backgroundColor","white")
-        $("#th3").css("backgroundColor","grey")
+        $("#th3").css("backgroundColor","#a96910")
         $("#th4").css("backgroundColor","white")
-        $("#th5").css("backgroundColor","grey")
+        $("#th5").css("backgroundColor","#a96910")
         $("#th6").css("backgroundColor","white")
-        $("#th7").css("backgroundColor","grey")
+        $("#th7").css("backgroundColor","#a96910")
 
-        $("#th8").css("backgroundColor","grey")
+        $("#th8").css("backgroundColor","#a96910")
         $("#th9").css("backgroundColor","white")
-        $("#th10").css("backgroundColor","grey")
+        $("#th10").css("backgroundColor","#a96910")
         $("#th11").css("backgroundColor","white")
-        $("#th12").css("backgroundColor","grey")
+        $("#th12").css("backgroundColor","#a96910")
         $("#th13").css("backgroundColor","white")
-        $("#th14").css("backgroundColor","grey")
+        $("#th14").css("backgroundColor","#a96910")
         $("#th15").css("backgroundColor","white")
 
         $("#th16").css("backgroundColor","white")
-        $("#th17").css("backgroundColor","grey")
+        $("#th17").css("backgroundColor","#a96910")
         $("#th18").css("backgroundColor","white")
-        $("#th19").css("backgroundColor","grey")
+        $("#th19").css("backgroundColor","#a96910")
         $("#th20").css("backgroundColor","white")
-        $("#th21").css("backgroundColor","grey")
+        $("#th21").css("backgroundColor","#a96910")
         $("#th22").css("backgroundColor","white")
-        $("#th23").css("backgroundColor","grey")
+        $("#th23").css("backgroundColor","#a96910")
 
-        $("#th24").css("backgroundColor","gray")
+        $("#th24").css("backgroundColor","#a96910")
         $("#th25").css("backgroundColor","white")
-        $("#th26").css("backgroundColor","gray")
+        $("#th26").css("backgroundColor","#a96910")
         $("#th27").css("backgroundColor","white")
-        $("#th28").css("backgroundColor","grey")
+        $("#th28").css("backgroundColor","#a96910")
         $("#th29").css("backgroundColor","white")
-        $("#th30").css("backgroundColor","grey")
+        $("#th30").css("backgroundColor","#a96910")
         $("#th31").css("backgroundColor","white")
 
         $("#th32").css("backgroundColor","white")
-        $("#th33").css("backgroundColor","gray")
+        $("#th33").css("backgroundColor","#a96910")
         $("#th34").css("backgroundColor","white")
-        $("#th35").css("backgroundColor","grey")
+        $("#th35").css("backgroundColor","#a96910")
         $("#th36").css("backgroundColor","white")
-        $("#th37").css("backgroundColor","grey")
+        $("#th37").css("backgroundColor","#a96910")
         $("#th38").css("backgroundColor","white")
-        $("#th39").css("backgroundColor","grey")
+        $("#th39").css("backgroundColor","#a96910")
 
-        $("#th40").css("backgroundColor","gray")
+        $("#th40").css("backgroundColor","#a96910")
         $("#th41").css("backgroundColor","white")
-        $("#th42").css("backgroundColor","gray")
+        $("#th42").css("backgroundColor","#a96910")
         $("#th43").css("backgroundColor","white")
-        $("#th44").css("backgroundColor","gray")
+        $("#th44").css("backgroundColor","#a96910")
         $("#th45").css("backgroundColor","white")
-        $("#th46").css("backgroundColor","grey")
+        $("#th46").css("backgroundColor","#a96910")
         $("#th47").css("backgroundColor","white")
 
         $("#th48").css("backgroundColor","white")
-        $("#th49").css("backgroundColor","gray")
+        $("#th49").css("backgroundColor","#a96910")
         $("#th50").css("backgroundColor","white")
-        $("#th51").css("backgroundColor","gray")
+        $("#th51").css("backgroundColor","#a96910")
         $("#th52").css("backgroundColor","white")
-        $("#th53").css("backgroundColor","gray")
+        $("#th53").css("backgroundColor","#a96910")
         $("#th54").css("backgroundColor","white")
-        $("#th55").css("backgroundColor","gray")
+        $("#th55").css("backgroundColor","#a96910")
 
-        $("#th56").css("backgroundColor","grey")
+        $("#th56").css("backgroundColor","#a96910")
         $("#th57").css("backgroundColor","white")
-        $("#th58").css("backgroundColor","gray")
+        $("#th58").css("backgroundColor","#a96910")
         $("#th59").css("backgroundColor","white")
-        $("#th60").css("backgroundColor","gray")
+        $("#th60").css("backgroundColor","#a96910")
         $("#th61").css("backgroundColor","white")
-        $("#th62").css("backgroundColor","gray")
+        $("#th62").css("backgroundColor","#a96910")
         $("#th63").css("backgroundColor","white")
     })
 }});
