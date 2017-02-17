@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chess Board</title>
+
+
+    <style>
+        table{
+            border-left: 1px solid black !important;
+            border-top:1px solid black ;
+        }
+        th {
+            border-right:  1px solid black ;
+            border-bottom:  1px solid black ;
+            width: 60px !important;
+            height: 60px;
+
+        }
+
+    </style>
+
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+
+
+</head>
+<body>
+<div>
+    <table>
+
+
+        <tr>
+            <th id="th" style="background-color: #FDFEFE"><p draggable="true" id="whiteRook" >&#9814;</p></th>
+            <th id="th1" style="background-color: #515A5A"><p draggable="true" id="whiteNite">&#9816;</p></th>
+            <th id="th2" style="background-color: #FDFEFE"><p draggable="true" id="whiteBishop">&#9815;</p></th>
+            <th id="th3" style="background-color: #515A5A"><p draggable="true" id="whiteQueen">&#9813;</p></th>
+            <th id="th4" style="background-color: #FDFEFE"><p draggable="true" id="whiteKing">&#9812;</p></th>
+            <th id="th5" style="background-color: #515A5A"><p draggable="true" id="whiteBishop1">&#9815;</p></th>
+            <th id="th6" style="background-color: #FDFEFE"><p draggable="true" id="whiteNite1">&#9816;</p></th>
+            <th id="th7" style="background-color: #515A5A"><p draggable="true" id="whiteRook1">&#9814;</p></th>
+
+        </tr>
+        <tr>
+            <th id="th8" style="background-color: #515A5A"><p draggable="true" id="whitePawn">&#9817;</p></th>
+            <th id="th9" style="background-color: #FDFEFE"><p draggable="true" id="whitePawn1">&#9817;</p></th>
+            <th id="th10" style="background-color: #515A5A"><p draggable="true" id="whitePawn2">&#9817;</p></th>
+            <th id="th11" style="background-color: #FDFEFE"><p draggable="true" id="whitePawn3">&#9817;</p></th>
+            <th id="th12" style="background-color: #515A5A"><p draggable="true" id="whitePawn4">&#9817;</p></th>
+            <th id="th13" style="background-color: #FDFEFE"><p draggable="true" id="whitePawn5">&#9817;</p></th>
+            <th id="th14" style="background-color: #515A5A"><p draggable="true" id="whitePawn6">&#9817;</p></th>
+            <th id="th15" style="background-color: #FDFEFE"><p draggable="true" id="whitePawn7">&#9817;</p></th>
+
+        </tr>
+        <tr>
+            <th id="th16" style="background-color: #FDFEFE"></th>
+            <th id="th17" style="background-color: #515A5A"></th>
+            <th id="th18" style="background-color: #FDFEFE"></th>
+            <th id="th19" style="background-color: #515A5A"></th>
+            <th id="th20" style="background-color: #FDFEFE"></th>
+            <th id="th21" style="background-color: #515A5A"></th>
+            <th id="th22" style="background-color: #FDFEFE"></th>
+            <th id="th23" style="background-color: #515A5A"></th>
+
+        </tr>
+        <tr>
+            <th id="th24" style="background-color: #515A5A"></th>
+            <th id="th25" style="background-color: #FDFEFE"></th>
+            <th id="th26" style="background-color: #515A5A"></th>
+            <th id="th27" style="background-color: #FDFEFE"></th>
+            <th id="th28" style="background-color: #515A5A"></th>
+            <th id="th29" style="background-color: #FDFEFE"></th>
+            <th id="th30" style="background-color: #515A5A"></th>
+            <th id="th31" style="background-color: #FDFEFE"></th>
+
+        </tr>
+        <tr>
+            <th id="th32" style="background-color: #FDFEFE"></th>
+            <th id="th33" style="background-color: #515A5A"></th>
+            <th id="th34" style="background-color: #FDFEFE"></th>
+            <th id="th35" style="background-color: #515A5A"></th>
+            <th id="th36" style="background-color: #FDFEFE"></th>
+            <th id="th37" style="background-color: #515A5A"></th>
+            <th id="th38" style="background-color: #FDFEFE"></th>
+            <th id="th39" style="background-color: #515A5A"></th>
+
+        </tr>
+        <tr>
+            <th id="th40" style="background-color: #515A5A"></th>
+            <th id="th41" style="background-color: #FDFEFE"></th>
+            <th id="th42" style="background-color: #515A5A"></th>
+            <th id="th43" style="background-color: #FDFEFE"></th>
+            <th id="th44" style="background-color: #515A5A"></th>
+            <th id="th45" style="background-color: #FDFEFE"></th>
+            <th id="th46" style="background-color: #515A5A"></th>
+            <th id="th47" style="background-color: #FDFEFE"></th>
+
+        </tr>
+        <tr>
+            <th id="th48" style="background-color: #FDFEFE"><p draggable="true" id="blackPawn">&#9823;</p></th>
+            <th id="th49" style="background-color: #515A5A"><p draggable="true" id="blackPawn1">&#9823;</p></th>
+            <th id="th50" style="background-color: #FDFEFE"><p draggable="true" id="blackPawn2">&#9823;</p></th>
+            <th id="th51" style="background-color: #515A5A"><p draggable="true" id="blackPawn3">&#9823;</p></th>
+            <th id="th52" style="background-color: #FDFEFE"><p draggable="true" id="blackPawn4">&#9823;</p></th>
+            <th id="th53" style="background-color: #515A5A"><p draggable="true" id="blackPawn5">&#9823;</p></th>
+            <th id="th54" style="background-color: #FDFEFE"><p draggable="true" id="blackPawn6">&#9823;</p></th>
+            <th id="th55" style="background-color: #515A5A"><p draggable="true" id="blackPawn7">&#9823;</p></th>
+
+        </tr>
+        <tr>
+            <th id="th56" style="background-color: #515A5A"><p draggable="true" id="blackRook" >&#9820;</p></th>
+            <th id="th57" style="background-color: #FDFEFE"><p draggable="true" id="blackNite">&#9822;</p></th>
+            <th id="th58" style="background-color: #515A5A"><p draggable="true" id="blackBishop">&#9821;</p></th>
+            <th id="th59" style="background-color: #FDFEFE"><p draggable="true" id="blackQueen">&#9818;</p></th>
+            <th id="th60" style="background-color: #515A5A"><p draggable="true" id="blackKing">&#9819;</p></th>
+            <th id="th61" style="background-color: #FDFEFE"><p draggable="true" id="blackBishop1">&#9821;</p></th>
+            <th id="th62" style="background-color: #515A5A"><p draggable="true" id="blackNite1">&#9822;</p></th>
+            <th id="th63" style="background-color: #FDFEFE"><p draggable="true" id="blackRook1" >&#9820;</p></th>
+
+        </tr>
+
+
+    </table>
+
+
+</div>
+
+<script type="text/javascript" src="js/chessBrd.js"></script>
+
+</body>
+</html>
